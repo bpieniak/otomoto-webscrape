@@ -1,0 +1,275 @@
+(dp0
+VPoduszki boczne przednie
+p1
+VFront side airbags
+p2
+sVPodgrzewane przednie siedzenia
+p3
+VHeated front seats
+p4
+sVKamera cofania
+p5
+VRear view camera
+p6
+sVKurtyny powietrzne
+p7
+VAir curtains
+p8
+sVPodgrzewane tylne siedzenia
+p9
+VHeated rear seats
+p10
+sVKlimatyzacja automatyczna
+p11
+VAutomatic air conditioning
+p12
+sVAsystent parkowania
+p13
+VParking assistant
+p14
+sVMP3
+p15
+g15
+sV\u015awiat\u0142a do jazdy dziennej
+p16
+VDaytime running lights
+p17
+sVTuner TV
+p18
+VTV tuner
+p19
+sVOgranicznik pr\u0119dko\u015bci
+p20
+VSpeed limiter
+p21
+sVCentralny zamek
+p22
+VCentral locking
+p23
+sVNawigacja GPS
+p24
+VGPS navigation
+p25
+sVHak
+p26
+VHook
+p27
+sVCzujnik deszczu
+p28
+VRain sensor
+p29
+sVPodgrzewana przednia szyba
+p30
+VHeated windscreen
+p31
+sVDach panoramiczny
+p32
+VPanoramic roof
+p33
+sVSzyberdach
+p34
+VSunroof
+p35
+sVRadio fabryczne
+p36
+VFactory radio
+p37
+sVTempomat
+p38
+VCruise control
+p39
+sVElektryczne szyby tylne
+p40
+VElectric rear windows
+p41
+sVPodgrzewane lusterka boczne
+p42
+VHeated side mirrors
+p43
+sVHUD (wy\u015bwietlacz przezierny)
+p44
+VHUD(head-up display)
+p45
+sV\u0141opatki zmiany biegów
+p46
+VShift paddles
+p47
+sVCzujnik martwego pola
+p48
+VBlind spot sensor
+p49
+sVPrzyciemniane szyby
+p50
+VTinted windows
+p51
+sVPoduszka powietrzna kierowcy
+p52
+VDrivers airbag
+p53
+sVElektryczne szyby przednie
+p54
+VElectric front windows
+p55
+sVCzujniki parkowania przednie
+p56
+VFront parking sensors
+p57
+sV\u015awiat\u0142a Xenonowe
+p58
+VXenon lights
+p59
+sVKomputer pok\u0142adowy
+p60
+VOn-board computer
+p61
+sVZmieniarka CD
+p62
+VCD changer
+p63
+sVBluetooth
+p64
+g64
+sVKlimatyzacja manualna
+p65
+VManual air conditioning
+p66
+sVESP (stabilizacja toru jazdy)
+p67
+VESP(stabilization of the track)
+p68
+sVPoduszka powietrzna chroni\u0105ca kolana
+p69
+VAirbag protecting the knees
+p70
+sVImmobilizer
+p71
+g71
+sVRelingi dachowe
+p72
+VRoof rails
+p73
+sVElektrochromatyczne lusterka boczne
+p74
+VElectrochromic side mirrors
+p75
+sVTapicerka skórzana
+p76
+VLeather upholstery
+p77
+sVKlimatyzacja dwustrefowa
+p78
+VDual zone air conditioning
+p79
+sVCzujnik zmierzchu
+p80
+VTwilight sensor
+p81
+sVAsystent pasa ruchu
+p82
+VLane assistant
+p83
+sVWspomaganie kierownicy
+p84
+VPower steering
+p85
+sVAlarm
+p86
+g86
+sVIsofix
+p87
+g87
+sVKlimatyzacja czterostrefowa
+p88
+VFour-zone air conditioning
+p89
+sVRegulowane zawieszenie
+p90
+VAdjustable suspension
+p91
+sVOdtwarzacz DVD
+p92
+VDVD player
+p93
+sVABS
+p94
+g94
+sVTapicerka welurowa
+p95
+VVelor upholstery
+p96
+sVElektrycznie ustawiane fotele
+p97
+VElectrically adjustable seats
+p98
+sVCzujniki parkowania tylne
+p99
+VRear parking sensors
+p100
+sVCD
+p101
+g101
+sVPoduszka powietrzna pasa\u017cera
+p102
+VPassengers airbag
+p103
+sVRadio niefabryczne
+p104
+VAftermarket radio
+p105
+sVWielofunkcyjna kierownica
+p106
+VMultifunction steering wheel
+p107
+sVPoduszki boczne tylne
+p108
+VRear side airbags
+p109
+sV\u015awiat\u0142a LED
+p110
+VLED lights
+p111
+sVOgrzewanie postojowe
+p112
+VAuxiliary heating
+p113
+sVASR (kontrola trakcji)
+p114
+VASR (traction control)
+p115
+sVGniazdo USB
+p116
+VUSB socket
+p117
+sVGniazdo SD
+p118
+VSD socket
+p119
+sV\u015awiat\u0142a przeciwmgielne
+p120
+VFog lights
+p121
+sVElektrochromatyczne lusterko wsteczne
+p122
+VElectrochromic rear view mirror
+p123
+sVElektrycznie ustawiane lusterka
+p124
+VElectrically adjustable mirrors
+p125
+sVAlufelgi
+p126
+VAlloy wheels
+p127
+sVSystem Start-Stop
+p128
+VStart-Stop system
+p129
+sVTempomat aktywny
+p130
+VActive cruise control
+p131
+sVGniazdo AUX
+p132
+VAUX socket
+p133
+s.

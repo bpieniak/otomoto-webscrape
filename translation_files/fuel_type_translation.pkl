@@ -1,0 +1,33 @@
+(dp0
+VBenzyna
+p1
+VGasoline
+p2
+sVBenzyna+CNG
+p3
+VGasoline + CNG
+p4
+sVBenzyna+LPG
+p5
+VGasoline + LPG
+p6
+sVDiesel
+p7
+g7
+sVElektryczny
+p8
+VElectric
+p9
+sVEtanol
+p10
+VEthanol
+p11
+sVHybryda
+p12
+VHybrid
+p13
+sVWodór
+p14
+VHydrogen
+p15
+s.

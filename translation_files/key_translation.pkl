@@ -1,0 +1,110 @@
+(dp0
+VUnnamed: 0
+p1
+VUnnamed: 0
+p2
+sVID
+p3
+VID
+p4
+sVPrice
+p5
+VPrice
+p6
+sVCurrency
+p7
+VCurrency
+p8
+sVStan
+p9
+VCondition
+p10
+sVMarka pojazdu
+p11
+VVehicle_brand
+p12
+sVModel pojazdu
+p13
+VVehicle_model
+p14
+sVWersja
+p15
+VVehicle_version
+p16
+sVGeneracja
+p17
+VVehicle_generation
+p18
+sVRok produkcji
+p19
+VProduction_year
+p20
+sVPrzebieg
+p21
+VMileage_km
+p22
+sVMoc
+p23
+VPower_HP
+p24
+sVPojemno\u015b\u0107 skokowa
+p25
+VDisplacement_cm3
+p26
+sVRodzaj paliwa
+p27
+VFuel_type
+p28
+sVEmisja CO2
+p29
+VCO2_emissions
+p30
+sVNap\u0119d
+p31
+VDrive
+p32
+sVSkrzynia biegów
+p33
+VTransmission
+p34
+sVTyp
+p35
+VType
+p36
+sVLiczba drzwi
+p37
+VDoors_number
+p38
+sVKolor
+p39
+VColour
+p40
+sVKraj pochodzenia
+p41
+VOrigin_country
+p42
+sVPierwszy w\u0142a\u015bciciel
+p43
+VFirst_owner
+p44
+sVPierwsza rejestracja
+p45
+VFirst_registration_date
+p46
+sVdate
+p47
+VOffer_publication_date
+p48
+sVLocation
+p49
+VOffer_location
+p50
+sVFeatures
+p51
+VFeatures
+p52
+sVURL
+p53
+VURL
+p54
+s.

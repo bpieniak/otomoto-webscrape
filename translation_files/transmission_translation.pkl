@@ -1,0 +1,10 @@
+(dp0
+VAutomatyczna
+p1
+VAutomatic
+p2
+sVManualna
+p3
+VManual
+p4
+s.

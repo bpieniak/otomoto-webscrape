@@ -1,0 +1,37 @@
+(dp0
+VAuta ma\u0142e
+p1
+Vsmall_cars
+p2
+sVAuta miejskie
+p3
+Vcity_cars
+p4
+sVCoupe
+p5
+Vcoupe
+p6
+sVKabriolet
+p7
+Vconvertible
+p8
+sVKombi
+p9
+Vstation_wagon
+p10
+sVKompakt
+p11
+Vcompact
+p12
+sVMinivan
+p13
+Vminivan
+p14
+sVSUV
+p15
+g15
+sVSedan
+p16
+Vsedan
+p17
+s.

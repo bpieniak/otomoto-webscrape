@@ -1,0 +1,22 @@
+(dp0
+V4x4 (do\u0142\u0105czany automatycznie)
+p1
+V4x4 (attached automatically)
+p2
+sV4x4 (do\u0142\u0105czany r\u0119cznie)
+p3
+V4x4 (attached manually)
+p4
+sV4x4 (sta\u0142y)
+p5
+V4x4 (permanent)
+p6
+sVNa przednie ko\u0142a
+p7
+VFront wheels
+p8
+sVNa tylne ko\u0142a
+p9
+VRear wheels
+p10
+s.
