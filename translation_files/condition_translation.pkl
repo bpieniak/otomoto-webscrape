@@ -1,6 +1,10 @@
 (dp0
-VTak
+VNowe
 p1
-Vyes
+VNew
 p2
+sVU\u017cywane
+p3
+VUsed
+p4
 s.
