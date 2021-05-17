@@ -70,8 +70,12 @@ def get_brand_models(brand, web_driver):
 
 def get_webscrap_list():
     """
+    Otomoto displays only 16000 offers per selected option,
+    so we need to split searched settings according to this
+
     return list of (brand,model) according to which page will be scraped
     """
+
     to_scrap = list()
     brands = get_car_brands()
 
@@ -93,7 +97,7 @@ def get_webscrap_list():
 
 def convert_date(date_string):
     """
-        Get date in string and format it to dd/mm/yyyy.
+    Get date in string and format it to dd/mm/yyyy.
     """
     locale.setlocale(locale.LC_ALL, 'en_US')
     month_dict = {'stycznia': 'January',
@@ -116,6 +120,9 @@ def convert_date(date_string):
 
 
 def get_offer_params(url):
+    """
+    Scrape variables from single offer based on url
+    """
     http = requests.get(url)
     soup = BeautifulSoup(http.text, 'html.parser')
 
@@ -211,10 +218,11 @@ def scrape_model_mp(brand, model=None):
             url = soup.find("li", {"class": "next abs"}).a['href']
 
 
-if __name__ == '__main__':
-    
+def scrape_otomoto():
+    print("Collecting webscrap list")
     webscrap_list = get_webscrap_list()
 
     n_cpu = mp.cpu_count()
+    print(f"Webscraping using {n_cpu} threads")
     with concurrent.futures.ThreadPoolExecutor(max_workers=n_cpu) as executor:
         executor.map(lambda p: scrape_model_mp(*p), webscrap_list)
