@@ -2,6 +2,8 @@
 
 Script webscraping car offers from car advertisement site [Otomoto.pl](https://www.otomoto.pl/).
 
+Script used to collect data for [Kaggle dataset](https://www.kaggle.com/bartoszpieniak/poland-cars-for-sale-dataset).
+
 Use only when you have enough time. For full scrape you need few hours.
 
 ### Usage
